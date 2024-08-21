@@ -1,6 +1,7 @@
 /*  your css code here. If applicable */
 ul;{
 	list-style: none;
+	display: flex;
 }
 /* nav{
 	padding: 10px;
