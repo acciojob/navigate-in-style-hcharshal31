@@ -4,14 +4,22 @@ ul;{
 }
 nav{
 	padding: 10px;
+	background-color: #D3D3D3;
 }
 li{
 	display: inline;
 	margin-right: 1rem;
-	text-decoration: none;
+	
 }
+
+a{
+	text-decoration: none;
+	color: #000000;
+	font-family: Arial;
+}
+
 .conatiner{
 	display: flex;
 	justify-content: center;
-	background-color: #D3D3D3;
+	
 }
