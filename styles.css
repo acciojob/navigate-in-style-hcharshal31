@@ -1,12 +1,8 @@
-/*  your css code here. If applicable */
-ul;{
+ul{
 	list-style: none;
 	display: flex;
 }
-/* nav{
-	padding: 10px;
-	background-color: #D3D3D3;
-} */
+
 li{
 	display: inline;
 	margin-right: 1rem;
