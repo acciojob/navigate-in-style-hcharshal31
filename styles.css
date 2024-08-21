@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+ul;{
+	list-style: none;
+}
+nav{
+	padding: 10px;
+}
+li{
+	display: inline;
+	margin-right: 1rem;
+	text-decoration: none;
+}
+.conatiner{
+	display: flex;
+	justify-content: center;
+	background-color: #D3D3D3;
+}
